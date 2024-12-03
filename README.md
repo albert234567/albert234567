@@ -39,7 +39,7 @@
 </span>
 
 <br>
-![trophy]
+![trophy](https://github-profile-trophy.vercel.app/?username=albert234567&row=1&no-bg=true)
 <br>
 ![Hridoy's GitHub stats](https://github-readme-stats.vercel.app/api?username=albert234567&show_icons=true&count_private=true&theme=great-gatsby) </br>
 <br>

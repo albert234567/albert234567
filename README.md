@@ -39,9 +39,6 @@
 </span>
     
 <br>
-
-![trophy](https://github-profile-trophy.vercel.app/?username=albert234567&row=1&no-bg=true)
-<br>
 ![Hridoy's GitHub stats](https://github-readme-stats.vercel.app/api?username=albert234567&show_icons=true&count_private=true&theme=great-gatsby) </br>
 <br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=albert234567&theme=great-gatsby&layout=compact)](https://github.com/HridoyHazard)

@@ -34,9 +34,9 @@
 <hr>
 <p align="center">
    <i>
-     Credits: https://github.com/albert234567
+     Credits: https://github.com/albert234567 
+     Last Edited on: 03/12/2024
+  </i>
+  
 <a target="_blank" href="albertroiggg@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"></img></a>
-  Last Edited on: 03/12/2024
-</i>
-   <br>
 <br>	

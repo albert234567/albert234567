@@ -38,7 +38,7 @@
   <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
 </span>
 
-![trophy](https://github-profile-trophy.vercel.app/?username=HridoyHazard&row=1&no-bg=true)
+!(https://github-profile-trophy.vercel.app/?username=albert234567&row=1&no-bg=true)
 <br>
 ![Hridoy's GitHub stats](https://github-readme-stats.vercel.app/api?username=albert234567&show_icons=true&count_private=true&theme=great-gatsby) </br>
 <br>
